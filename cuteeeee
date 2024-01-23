@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>hyeeus_ilui</title>
+</head>
+<body style="background-color: lightpink;">
+  <div class="container">
+    <p>You are so cute! Have a nice day! By @hyeeus_ilui</p>
+    <img src="https://i.pinimg.com/originals/b2/90/aa/b290aacad4e6d1eb5d447378e8011cf3.gif" alt="QooBee">
+  </div>
+</body>
+</html>
